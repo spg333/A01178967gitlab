@@ -25,7 +25,7 @@ function clearMovies() {
     clearTable();
 }
 
-function movieExists(movieName){
+function movieExists(movieName){//checking if the movie is exists already
 
     if(movieArray.some(movies => movies.name === movieName)){
         return true;
