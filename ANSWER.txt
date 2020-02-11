@@ -1,0 +1,9 @@
+Steps to accomplish Stop 1.
+1. I typed 'mkdir A01178967gilab' to creat a folder.
+2. I typed 'cd A01178967gilab' to open the folder.
+3. I typed 'git init' to initialize empty Git repository.
+4. I typed 'git add .' to add the folders to the repository.
+5. I typed 'git commit -m "This is my first commit"' to commit.
+6. I typed 'git log' to see the commit history.
+7. I typed 'git remote add origin https://github.com/spg333/A01178967gitlab.git'
+8. I typed 'git push -u origin master' and log in to my git hub account.
